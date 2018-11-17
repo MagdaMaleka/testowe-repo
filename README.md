@@ -6,4 +6,6 @@ To jest testowe repozytorium
 3. MarsApplication.java
 4. MarsRobot.java
 
+![alternatywny teskt](https://assets-cdn.github.com/images/modules/open_graph/github-mark.png)
+
 
