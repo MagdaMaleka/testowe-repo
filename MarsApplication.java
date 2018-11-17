@@ -1,3 +1,5 @@
+//to jest komentarz, a to jest dalszy komentarz
+
 public class MarsApplication  {
     public static void main (String[] args){
         MarsRobot spirit = new MarsRobot();
