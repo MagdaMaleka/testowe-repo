@@ -7,3 +7,4 @@ To jest testowe repozytorium
 4. MarsRobot.java
 
 
+![alt text](C:\Users\mamaleka\IdeaProjects\indeks.png "Github logo")
